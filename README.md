@@ -1,1 +1,1 @@
-# P300-EEG-classification.mat
+# P300 dataset classification.mat
